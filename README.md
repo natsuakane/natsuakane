@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 👨‍🎓 I'm a student. (I am 13 years old)
+- 👨‍🎓 I'm a student in Japan. (I am 13 years old)
 - 🌱 I’m currently learning go and rust!
 
 
@@ -27,6 +27,9 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsuakane&theme=vue-dark&layout=compact" />
 </div>
 
+## 📫 How to reach me:
+DiscordID: "chiyokokun_programming"
+Qiita: [Natsuakane](https://qiita.com/natsuakane)
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
